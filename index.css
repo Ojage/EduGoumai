@@ -1,0 +1,41 @@
+body{
+    font-family: montserrat;
+}
+.logo{
+    height: 4ex;
+}
+.navOp{
+    padding-left: 50%;
+}
+.bd-example  img {
+    /* border: 1px solid rgb(247, 238, 238); */
+    /* border-radius: 4px; */
+    padding: 5px;
+    height: 90ex;
+    width: auto;
+    size: 50%;
+  }
+  
+  .bd-example   img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+  .cen{
+      font-size: xx-large;
+      text-align: center;
+  }
+  .cen b{
+      color: blue;
+  }
+  .cen1{
+    /* font-size: xx-large; */
+    text-align: center;
+    
+}
+.cen1 b{
+    color: blue;
+}
+.wa{
+    position: absolute;
+    top: -28px;
+    z-index: -999;
+}
